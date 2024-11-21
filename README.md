@@ -18,3 +18,16 @@ Luego seleccionaremos al paciente o al medico según nos querramos registrar com
 
 Llenaremos todos los campos y nos registraremos. Tendremos que confirmar el registro a partir del mail que recibiremos en nuestra casilla.
 Si te registraste como especialista, deberás esperar a ser aprobado por un ADMIN para continuar.
+
+Una vez estemos en el sistema como especialista, paciente o admin, podremos ir a la sección mi perfil para ver nuestro perfil. Si somos pacientes también podremos ver un detalle de los turnos realizados desde allí.
+
+![image](https://github.com/user-attachments/assets/792e5e31-4e4e-4bb0-b384-a4333459bd22)
+
+Como ESPECIALISTA podremos ir a la sección Mis Horarios donde prodemos ver nuestros horarios subidos y su estado, además allí podremos cargar nuestros horarios disponibles para aceptar turnos. Los turnos tienen una duración de una hora.
+
+![image](https://github.com/user-attachments/assets/429a48ee-553c-4b72-b7fb-56926e80a67f)
+
+En la sección Mis Turnos, tanto especialista como paciente, podremos ver un detalle de nuestros turnos:
+![image](https://github.com/user-attachments/assets/e014ddb0-9438-4813-ac22-29d9573c0d77)
+
+En la sección Turnos como ADMIN podremos ver todos los turnos de la Clinica.
