@@ -31,3 +31,6 @@ En la sección Mis Turnos, tanto especialista como paciente, podremos ver un det
 ![image](https://github.com/user-attachments/assets/e014ddb0-9438-4813-ac22-29d9573c0d77)
 
 En la sección Turnos como ADMIN podremos ver todos los turnos de la Clinica.
+
+En la Sección Usuarios como ADMIN podremos ver todos los usuarios de la Clinica y habilitar y deshabilitar a los Especialistas.
+![image](https://github.com/user-attachments/assets/4bb8123c-c018-46ae-b03a-95426b96072a)
